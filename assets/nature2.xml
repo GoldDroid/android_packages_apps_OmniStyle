@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <random_header image="nature16" />
+    <random_header image="nature17" />
+    <random_header image="nature18" />
+    <random_header image="nature19" />
+    <random_header image="nature20" />
+    <random_header image="nature21" />
+    <random_header image="nature22" />
+    <random_header image="nature23" />
+    <random_header image="nature24" />
+    <random_header image="nature25" />
+    <random_header image="nature26" />
+    <random_header image="nature27" />
+    <random_header image="nature28" />
+    <random_header image="nature29" />
+    <random_header image="nature30" />
+    <random_header image="nature31" />
+    <random_header image="nature32" />
+    <random_header image="nature33" />
+    <random_header image="nature34" />
+    <random_header image="nature35" />
+    <random_header image="nature36" />
+    <random_header image="nature37" />
+    <random_header image="nature38" />
+    <random_header image="nature39" />
+    <random_header image="nature40" />
+    <random_header image="nature41" />
+    <random_header image="nature42" />
+    <random_header image="nature43" />
+    <random_header image="nature44" />
+    <random_header image="nature45" />
+    <random_header image="nature46" />
+    <random_header image="nature47" />
+    <random_header image="nature48" />
+    <random_header image="nature49" />
+    <random_header image="nature50" />
+    <random_header image="nature51" />
+</daylight_headers>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <random_header image="abstract01" />
+    <random_header image="abstract02" />
+    <random_header image="abstract03" />
+    <random_header image="abstract04" />
+    <random_header image="abstract05" />
+    <random_header image="abstract06" />
+    <random_header image="abstract07" />
+    <random_header image="abstract08" />
+    <random_header image="abstract09" />
+    <random_header image="abstract10" />
+    <random_header image="abstract11" />
+    <random_header image="abstract12" />
+    <random_header image="abstract13" />
+    <random_header image="abstract14" />
+    <random_header image="abstract15" /> 
+    <random_header image="abstract16" />
+    <random_header image="abstract17" />
+    <random_header image="abstract18" />
+    <random_header image="abstract19" />
+    <random_header image="abstract20" />
+    <random_header image="abstract21" />
+    <random_header image="abstract22" />
+    <random_header image="abstract23" />
+    <random_header image="abstract24" />
+    <random_header image="abstract25" />
+    <random_header image="abstract26" />
+    <random_header image="abstract27" />
+    <random_header image="abstract28" />
+    <random_header image="abstract29" />
+    <random_header image="abstract30" />
+    <random_header image="abstract31" />
+    <random_header image="abstract32" />
+    <random_header image="abstract33" />
+    <random_header image="abstract34" />
+    <random_header image="abstract35" />
+    <random_header image="abstract36" />
+    <random_header image="abstract37" />
+    <random_header image="abstract38" />
+    <random_header image="abstract39" />
+    <random_header image="abstract40" />
+    <random_header image="abstract41" />
+    <random_header image="abstract42" />
+    <random_header image="abstract43" />
+    <random_header image="abstract44" />
+    <random_header image="abstract45" />
+    <random_header image="abstract46" />
+    <random_header image="abstract47" />
+    <random_header image="abstract48" />
+    <random_header image="abstract49" />
+    <random_header image="abstract50" />
+    <random_header image="abstract51" />
+</daylight_headers>
